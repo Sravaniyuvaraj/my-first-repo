@@ -6,7 +6,11 @@ this is commit 3 data entering in this file1
 resolved the conflicts 
 
 am  a good girl learning devops
-
-
+<<<<<<< Updated upstream
+=======
+new data added this is stash concept
+hi this is done
+>>>>>>> Stashed changes
+all done 
 
 
